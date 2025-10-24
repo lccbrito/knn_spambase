@@ -88,7 +88,7 @@ seaborn>=0.12.0
 ## 📂 Estrutura do Projeto
 
 ```
-knn-spambase-analysis/
+knn_spambase/
 │
 ├── analise_knn_spambase.ipynb    # Notebook principal
 ├── atividade_CIN0208.pdf         # Arquivo da Atividade
@@ -126,9 +126,4 @@ weighted avg       0.94      0.94      0.94      1381
 - Falsos Negativos: 44 (8,1%)
 - Verdadeiros Positivos: 500
 
----  
-  **⭐ Se este projeto foi útil, considere dar uma estrela!**
-  
-  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=seu-usuario.knn-spambase-analysis)
-  
-</div>
+--- 
